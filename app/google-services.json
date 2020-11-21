@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939452737322",
+    "firebase_url": "https://uts2020vivioktari.firebaseio.com",
+    "project_id": "uts2020vivioktari",
+    "storage_bucket": "uts2020vivioktari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939452737322:android:bd4fb7c2c2ced219f0e053",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500023_vivi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939452737322-higp8v649pm2m8u165401lj3uri0thgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500023_vivi",
+            "certificate_hash": "fec7dcd2bc21b9050703ec3fe6efb34ba3d350fb"
+          }
+        },
+        {
+          "client_id": "939452737322-0vn7dedqhj8ilg19npi9ppqm8uanrc71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLMOV9mLZKqBALVaxC4FcTwkr4FafXkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939452737322-0vn7dedqhj8ilg19npi9ppqm8uanrc71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
